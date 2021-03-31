@@ -4,7 +4,7 @@ Repositório com a integração entre Jupyter Notebook e Elasticsearch.
 
 **Pastas**
 <b></b>
-- Na pasta Data, há a base de dados books.csv. Essa base de dados foi extraída do Kaggle e usada aqui para ilustrar o envio de dados ao Elasticsearch via Jupyter Notebook
+- Na pasta Data, há a base de dados books.csv. Essa base de dados foi extraída do Kaggle (link pra base: https://www.kaggle.com/jealousleopard/goodreadsbooks e usada aqui para ilustrar o envio de dados ao Elasticsearch via Jupyter Notebook
 - Na pasta notebooks, há o arquivo .ipynb, ou seja, o notebook em si.
 
 **Uso**
